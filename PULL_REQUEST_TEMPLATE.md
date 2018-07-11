@@ -1,0 +1,4 @@
+- [ ] Follows the [Contribution Guidelines](../../blob/master/CONTTRIBUTING.md).
+- [ ] Has passed ```mvn verify``` locally.
+- [ ] New tests added for new functionality/bug fixes
+- [ ] Has signed the Contributor License Agreement
